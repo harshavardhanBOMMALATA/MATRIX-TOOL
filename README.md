@@ -190,16 +190,18 @@ This project serves as a practical introduction to matrix operations using Pytho
 4. **Follow the Menu**: Use the interactive menu to select and perform various matrix operations.
 5. **Experiment Freely**: Try different matrix sizes, values, and operations to explore and learn linear algebra concepts.
 
-## Author - HARSHAVARDHAN BOMMALATA
+## 👨‍💻Author - HARSHAVARDHAN BOMMALATA
 
 This project is part of my portfolio, showcasing foundational Python and NumPy skills essential for roles in data science and software development. If you have any questions, feedback, or are interested in collaborating, feel free to reach out!
 
-## STAY CONNECTED
+Here’s a cleaner and more professional version of your **STAY CONNECTED** section:
 
--**LinkedIn**:[Connect with me professionally](https://www.linkedin.com/in/harshavardhan-bommalata)
+---
 
--**Gmail**:[Suggest me ideas](hbommalata@gmail.com)
+## 🤝 Stay Connected
 
--**instagram**:[For personal chats](https://www.instagram.com/always_harsha_royal/)
+* **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/harshavardhan-bommalata)
+* **Email**: [hbommalata@gmail.com](mailto:hbommalata@gmail.com) – for suggestions or collaboration
+* **Instagram**: [@always\_harsha\_royal](https://www.instagram.com/always_harsha_royal/) – for personal chats
 
-Thank you for your support, and I look forward to connecting with you!
+Thank you for your support! I look forward to connecting with you.
