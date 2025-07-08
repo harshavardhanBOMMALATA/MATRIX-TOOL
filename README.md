@@ -200,7 +200,7 @@ Here’s a cleaner and more professional version of your **STAY CONNECTED** sect
 
 ## 🤝 Stay Connected
 
-* **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/harshavardhan-bommalata)
+* **LinkedIn**: [Connect me professionally](https://www.linkedin.com/in/harshavardhan-bommalata)
 * **Email**: [hbommalata@gmail.com](mailto:hbommalata@gmail.com) – for suggestions or collaboration
 * **Instagram**: [@always\_harsha\_royal](https://www.instagram.com/always_harsha_royal/) – for personal chats
 
