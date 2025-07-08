@@ -194,13 +194,9 @@ This project serves as a practical introduction to matrix operations using Pytho
 
 This project is part of my portfolio, showcasing foundational Python and NumPy skills essential for roles in data science and software development. If you have any questions, feedback, or are interested in collaborating, feel free to reach out!
 
-Here’s a cleaner and more professional version of your **STAY CONNECTED** section:
-
----
-
 ## 🤝 Stay Connected
 
-* **LinkedIn**: [Connect me professionally](https://www.linkedin.com/in/harshavardhan-bommalata)
+* **LinkedIn**: [Connect me professionally](https://www.linkedin.com/in/harshavardhan-bommalata-7bb9442b0/)
 * **Email**: [hbommalata@gmail.com](mailto:hbommalata@gmail.com) – for suggestions or collaboration
 * **Instagram**: [@always\_harsha\_royal](https://www.instagram.com/always_harsha_royal/) – for personal chats
 
